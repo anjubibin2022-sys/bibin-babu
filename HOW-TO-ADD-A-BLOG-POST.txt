@@ -1,0 +1,7 @@
+HOW TO ADD A NEW BLOG POST
+1. Copy blog-template.html and rename it, e.g. blog-cashless-vs-reimbursement.html
+2. Edit the title, description, heading, date and article text inside the file.
+3. In blog.html, change the matching "Coming soon" card into a link card
+   (copy the card for "What is Health Insurance?" and edit it).
+4. Add the new page address to sitemap.xml.
+5. Re-upload the folder to Netlify (Deploys > drag and drop).
